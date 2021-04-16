@@ -18,8 +18,8 @@ public class Tugasno2 {
             }
             k = k+1;
         }
-        System.out.println();
-        System.out.println("--- Bubble Sort ---");
+        System.out.println("\nMuhammad Haris Fariyano");
+        System.out.println("<-< Bubble Sort >->");
         for (int i=0; i<data.length; i++){
             System.out.print(data[i]+" ");
         }

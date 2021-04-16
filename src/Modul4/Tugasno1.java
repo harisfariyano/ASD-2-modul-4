@@ -14,8 +14,8 @@ public class Tugasno1 {
             }
             data[j+1] = key;
         }
-        System.out.println();
-        System.out.println("--- Insertion Sort ---");
+        System.out.println("\nMuhammad Haris Fariyano");
+        System.out.println("<-< Insertion Sort >->");
         for (int i=0; i<data.length; i++){
             System.out.print(data[i]+" ");
         }

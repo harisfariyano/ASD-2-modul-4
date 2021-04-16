@@ -16,8 +16,8 @@ public class Tugasno3 {
             data[i] = data[indeksKecil];
             data[indeksKecil] = temp;
         }
-        System.out.println();
-        System.out.println("--- Selection Sort ---");
+        System.out.println("\nMuhammad Haris Fariyano");
+        System.out.println("<-< Selection Sort >->");
         for (int i=0; i<data.length; i++){
             System.out.print(data[i]+" ");
         }
